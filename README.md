@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg?width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block" class="js-gh-image-fallback")
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bhaskararyal5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=bhaskararyal5&theme=dark&hide_border=false)<br/>
