@@ -20,6 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhaskararyal5&icon=7&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskararyal5&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskararyal5" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
