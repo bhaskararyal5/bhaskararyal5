@@ -11,7 +11,7 @@
 ### 💫 About Me
 
 - 🌱 Currently learning **Python** and building small projects to sharpen my skills
-- 📊 Interested in data analysis — working with libraries like `NumPy` and `Pandas`
+- 📊 Interested in AI/ML — working with libraries like `NumPy` and `Pandas`
 - 💬 Ask me about anything — coding or otherwise!
 - ⚡ Fun fact: Hello, World! 👋
 
