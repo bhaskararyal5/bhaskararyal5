@@ -47,18 +47,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskararyal5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskararyal5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhaskararyal5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaskararyal5&theme=tokyonight&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
