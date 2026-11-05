@@ -21,9 +21,9 @@
 
 | Project | Description |
 |---|---|
-| [**Learning-Different-Python-Libaries**](https://github.com/bhaskararyal5/Learning-Different-Python-Libaries) | A hands-on collection of exercises exploring various Python libraries |
+| [**NYC-Airbnb-Classifier**](https://github.com/bhaskararyal5/NYC-Airbnb-Classifier) | Building a NYC-Airbnb room type prediction model |
 | [**Student-Grade-Analyzer**](https://github.com/bhaskararyal5/Student-Grade-Analyzer) | A Python tool for analyzing and summarizing student grade data |
-| [**Weather-Data-analysis**](https://github.com/bhaskararyal5/Weather-Data-analysis) | Data analysis project exploring weather patterns and trends |
+| [**Mental_Health_Predictor**](https://github.com/bhaskararyal5/Mental_Health_Predictor) | Building a Mental Health score Predictor of students |
 
 ---
 
