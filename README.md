@@ -1,83 +1,116 @@
-<h1 align="center">Hi there, I'm Bhaskar 👋</h1>
+# Hi there, I'm Bhaskar Aryal 👋
 
-<h3 align="center">A Python developer exploring data, code, and everything in between</h3>
+### Computer Engineering Student | AI/ML Enthusiast | Developer
+
+I'm a Computer Engineering student at **IOE, Thapathali Campus**, passionate about technology, problem-solving, and building practical solutions through code.
+
+Currently exploring the world of **Artificial Intelligence and Machine Learning**, while strengthening my foundations in software development, programming, and computer science.
+
+- 🎓 Studying Computer Engineering at IOE Thapathali.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Building practical projects using Python and modern development tools.
+- 🔐 Exploring Cybersecurity alongside AI/ML.
+- 🌱 Constantly learning, experimenting, and improving.
+- 🎯 Working towards becoming an AI/ML Engineer.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+</p>
+
+### Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,vscode,pycharm" />
+</p>
+
+### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Mental Health Predictor
+A machine learning project focused on exploring the relationship between social media usage and mental health indicators.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, FastAPI
+
+🔗 [View Repository](https://github.com/bhaskararyal5/Mental_Health_Predictor)
+
+### 🏠 NYC Airbnb Classification
+A machine learning classification project using the NYC Airbnb dataset to explore accommodation data and build predictive models.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, FastAPI
+
+🔗 [View Repository](https://github.com/bhaskararyal5/NYC-airbnb-classification)
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning and model optimization
+- Deep Learning fundamentals
+- Data Structures and Algorithms
+- Backend development with FastAPI
+- Cybersecurity fundamentals
+- Database management and SQL
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Python+one+project+at+a+time;Turning+data+into+insights;Always+open+to+a+good+conversation;Building+cool+stuff+with+code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaskararyal5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskararyal5&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhaskararyal5&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💫 About Me
-
-- 🌱 Currently learning **Python** and building small projects to sharpen my skills
-- 📊 Interested in AI/ML — working with libraries like `NumPy` and `Pandas`
-- 💬 Ask me about anything — coding or otherwise!
-- ⚡ Fun fact: Hello, World! 👋
-
----
-
-### 🚀 Projects
-
-| Project | Description |
-|---|---|
-| [**NYC-Airbnb-Classifier**](https://github.com/bhaskararyal5/NYC-Airbnb-Classifier) | Building a NYC-Airbnb room type prediction model |
-| [**Student-Grade-Analyzer**](https://github.com/bhaskararyal5/Student-Grade-Analyzer) | A Python tool for analyzing and summarizing student grade data |
-| [**Mental_Health_Predictor**](https://github.com/bhaskararyal5/Mental_Health_Predictor) | Building a Mental Health score Predictor of students |
-
----
-
-### 💻 Tech Stack
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskararyal5&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhaskararyal5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/bhaskar-aryal-5a1520406" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://github.com/bhaskararyal5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aryalbhaskar5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/bhaskar_5960" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/bhaskar.aryal.524" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhaskararyal5&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <i>"The beautiful thing about learning is that nobody can take it away from you."</i>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/bhaskararyal5">bhaskararyal5</a></i></p>
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
