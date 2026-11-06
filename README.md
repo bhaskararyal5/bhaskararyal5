@@ -1,5 +1,11 @@
 # Hi there, I'm Bhaskar Aryal 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI%2FML+Enthusiast;Python+Developer;Exploring+Cybersecurity;Always+Learning+and+Building" alt="Typing SVG" />
+  </a>
+</p>
+
 ### Computer Engineering Student | AI/ML Enthusiast | Developer
 
 I'm a Computer Engineering student at **IOE, Thapathali Campus**, passionate about technology, problem-solving, and building practical solutions through code.
@@ -18,38 +24,51 @@ Currently exploring the world of **Artificial Intelligence and Machine Learning*
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 ### AI / Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 </p>
 
 ### Libraries & Frameworks
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
 </p>
 
+### Python Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="Seaborn" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-learn" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/joblib/joblib/main/doc/logo.png" height="45" alt="Joblib" />
+</p>
+
 ### Database & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,vscode,pycharm" />
 </p>
-
-### Python Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Joblib
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Mental Health Predictor
+
 A machine learning project focused on exploring the relationship between social media usage and mental health indicators.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, FastAPI
@@ -57,6 +76,7 @@ A machine learning project focused on exploring the relationship between social 
 🔗 [View Repository](https://github.com/bhaskararyal5/Mental_Health_Predictor)
 
 ### 🏠 NYC Airbnb Classification
+
 A machine learning classification project using the NYC Airbnb dataset to explore accommodation data and build predictive models.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, FastAPI
@@ -103,6 +123,14 @@ A machine learning classification project using the NYC Airbnb dataset to explor
   <a href="https://github.com/bhaskararyal5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaskararyal5&label=PROFILE+VIEWS&color=70A5FD&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
