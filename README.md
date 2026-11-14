@@ -54,7 +54,7 @@ Currently exploring the world of **Artificial Intelligence and Machine Learning*
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-learn" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/joblib/joblib/main/doc/logo.png" height="45" alt="Joblib" />
+  
 </p>
 
 ### Database & Tools
